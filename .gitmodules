@@ -16,3 +16,12 @@
 [submodule "HELEN_PST_MATLAB"]
 	path = HELEN_PST_MATLAB
 	url = https://github.com/pbbp0904/HELEN_PST_MATLAB.git
+[submodule "HELEN_CAM_Raspi"]
+	path = HELEN_CAM_Raspi
+	url = https://github.com/pbbp0904/HELEN_CAM_Raspi.git
+[submodule "HELEN_RAD_FPGA"]
+	path = HELEN_RAD_FPGA
+	url = https://github.com/pbbp0904/HELEN_RAD_FPGA.git
+[submodule "HELEN_RAD_MCU"]
+	path = HELEN_RAD_MCU
+	url = https://github.com/pbbp0904/HELEN_RAD_MCU.git
