@@ -1,0 +1,18 @@
+[submodule "HELEN_ENV_ATX"]
+	path = HELEN_ENV_ATX
+	url = https://github.com/pbbp0904/HELEN_ENV_ATX.git
+[submodule "HELEN_EFM_ATX"]
+	path = HELEN_EFM_ATX
+	url = https://github.com/pbbp0904/HELEN_EFM_ATX.git
+[submodule "HELEN_EFM_Teensy"]
+	path = HELEN_EFM_Teensy
+	url = https://github.com/pbbp0904/HELEN_EFM_Teensy.git
+[submodule "HELEN_SIM_EFM"]
+	path = HELEN_SIM_EFM
+	url = https://github.com/pbbp0904/HELEN_SIM_EFM.git
+[submodule "HELEN_SIM_RDP"]
+	path = HELEN_SIM_RDP
+	url = https://github.com/pbbp0904/HELEN_SIM_RDP.git
+[submodule "HELEN_PST_MATLAB"]
+	path = HELEN_PST_MATLAB
+	url = https://github.com/pbbp0904/HELEN_PST_MATLAB.git
