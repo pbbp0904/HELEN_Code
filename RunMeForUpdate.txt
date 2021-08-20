@@ -5,3 +5,5 @@ git add --all
 git submodule update 
 git submodule foreach git checkout main 
 git submodule foreach git pull origin main
+git commit -m "updated modules"
+git push
